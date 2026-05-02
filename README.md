@@ -38,7 +38,7 @@ A web application designed to send emergency alerts and improve personal safety.
 
 ## Contact
 
-- Email: yourmail@gmail.com  
+- Email: shafinimtiaz21@gmail.com  
 - GitHub: https://github.com/shafinSI  
 
 ---
