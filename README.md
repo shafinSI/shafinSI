@@ -1,48 +1,84 @@
-<h1 align="center">Shafin Imtiaz</h1>
+<h1 align="center">Hi 👋, I'm Shafin Imtiaz</h1>
 
 <p align="center">
-  Full Stack Developer (Next.js) • Bangladesh
+  🚀 Full Stack Developer • 🤖 AI Enthusiast • 🔐 Cybersecurity Learner  
+  🌍 Bangladesh
 </p>
 
 <p align="center">
-  I build practical web applications that solve real-world problems.
+  Building intelligent, secure, and real-world impactful applications.
 </p>
 
 ---
 
-## About
+## 🧠 About Me
 
-- Currently building: **Human Safety Application**
-- Focus: **Next.js, React, Node.js**
-- Interest: **Real-world problem solving through technology**
-
----
-
-## Tech Stack
-
-- Frontend: React, Next.js  
-- Backend: Node.js  
-- Languages: JavaScript, TypeScript  
-- Deployment: Vercel  
+- 🔭 Currently building: **Human Safety App**
+- 🌱 Learning: **AI, Machine Learning, Cybersecurity, Full Stack Development**
+- 🧩 Interested in: **Smart systems, security, and automation**
+- 🎯 Goal: Become a **Software + AI + Security Engineer**
 
 ---
 
-## Featured Project
+## 🛠️ Tech Stack
 
-**Human Safety App**  
-A web application designed to send emergency alerts and improve personal safety.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,js,ts,python,git,github,vscode" />
+</p>
+
+---
+
+## 🚨 Featured Project
+
+### 🛡️ Human Safety App
 
 🔗 https://human-safety.vercel.app
 
+**Key Features:**
+- 🚨 Emergency Alert System  
+- 📧 Email Notification  
+- 📍 Real-world safety solution  
+
 ---
 
-## Contact
+## 🤖 AI & Cybersecurity Focus
 
-- Email: shafinimtiaz21@gmail.com  
-- GitHub: https://github.com/shafinSI  
+- 🤖 Exploring Artificial Intelligence systems  
+- 🧠 Learning Machine Learning fundamentals  
+- 🔐 Interested in Cybersecurity & ethical hacking  
+- 🛡️ Building secure and reliable applications  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shafinSI&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafinSI&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafinSI&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contact
+
+- 📧 Email: shafinimtiaz21@gmail.com  
+- 💻 GitHub: https://github.com/shafinSI  
+
+---
+
+## ⚡ Philosophy
+
+> Build smart. Secure systems. Solve real problems.
 
 ---
 
 <p align="center">
-  Building simple, useful, and reliable applications.
+  🚀 Keep Learning • Keep Building • Stay Secure
 </p>
